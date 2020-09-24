@@ -6,7 +6,8 @@ This is a real-time youtube subscriber counter in go. It uses a WebSocket server
 The YouTube API are used to communicate with channel. API return all of the statistics of our channel as well as things like the description and a few other bits of information.
 </div>
 </br>
-<img src="/youtube_subs_monitor/images/ss1.png" align="left" width="500" hspace="10" vspace="10"> </br>
+<img src="/youtube_subs_monitor/images/ss1.png" align="left" width="500" hspace="10" vspace="10"> 
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2. Command-line tool in Go
 <div style="display:flex;">
